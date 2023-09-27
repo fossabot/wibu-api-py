@@ -1,5 +1,6 @@
 # Wibu-API-Py
-[![Downloads](https://static.pepy.tech/badge/wibuapi)](https://pepy.tech/project/wibuapi)  [![Repo Size](https://img.shields.io/github/repo-size/zYxDevs/wibu-api-py?style=flat-square)](https://github.com/zYxDevs/wibu-api-py)  [![Languages](https://img.shields.io/github/languages/top/zYxDevs/wibu-api-py?style=flat-square)](https://github.com/zYxDevs/wibu-api-py)  [![CodeFactor](https://www.codefactor.io/repository/github/zYxDevs/wibu-api-py/badge)](https://www.codefactor.io/repository/github/zYxDevs/wibu-api-py)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8b87ea2387574f54849805430a9bc9ea)](https://www.codacy.com/gh/zYxDevs/wibu-api-py/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zYxDevs/wibu-api-py&amp;utm_campaign=Badge_Grade)
+[![Downloads](https://static.pepy.tech/badge/wibuapi)](https://pepy.tech/project/wibuapi) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FzYxDevs%2Fwibu-api-py.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FzYxDevs%2Fwibu-api-py?ref=badge_shield)
+ [![Repo Size](https://img.shields.io/github/repo-size/zYxDevs/wibu-api-py?style=flat-square)](https://github.com/zYxDevs/wibu-api-py)  [![Languages](https://img.shields.io/github/languages/top/zYxDevs/wibu-api-py?style=flat-square)](https://github.com/zYxDevs/wibu-api-py)  [![CodeFactor](https://www.codefactor.io/repository/github/zYxDevs/wibu-api-py/badge)](https://www.codefactor.io/repository/github/zYxDevs/wibu-api-py)  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8b87ea2387574f54849805430a9bc9ea)](https://www.codacy.com/gh/zYxDevs/wibu-api-py/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=zYxDevs/wibu-api-py&amp;utm_campaign=Badge_Grade)
 
 _Official Python Wrapper for Wibu API._
 
@@ -312,3 +313,7 @@ You can ping me on telegram or make new issue.
 ```
 © 2022-2023 Yoga Pranata
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FzYxDevs%2Fwibu-api-py.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FzYxDevs%2Fwibu-api-py?ref=badge_large)
